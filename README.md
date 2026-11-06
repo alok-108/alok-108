@@ -17,7 +17,7 @@
 
 ### 🌟 About Me
 
-- 🎓 Undergraduate at **Indian Institute of Technology Patna (IIT Patna)**
+- 🎓 at **Indian Institute of Technology Patna (IIT Patna)**
 - 🔬 Research Interests: **Scientific Machine Learning (SciML)**, **Efficient AI Systems**, and **High-Performance Numerical Methods**
 - 🛠️ Creator of [**Phantom**](https://github.com/alok-108/phantom) — *Dual-layer programming language embedding structured instructions in ordinary Python source*
 - 🌍 Passionate about contributing to scientific computing and open-source software
