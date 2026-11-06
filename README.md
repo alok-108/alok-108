@@ -8,6 +8,7 @@
   <a href="https://alokpandey-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-alokpandey.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/alok-108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://holopin.io/@alok-108"><img src="https://img.shields.io/badge/Holopin-Badges-5F46E8?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="Holopin" /></a>
+  <a href="https://science.nasa.gov/open-science/transform-to-open-science/"><img src="https://img.shields.io/badge/NASA-Open%20Science-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Open Science" /></a>
 </p>
 
 </div>
@@ -19,11 +20,70 @@
 - 🎓 Undergraduate at **Indian Institute of Technology Patna (IIT Patna)**
 - 🔬 Research Interests: **Scientific Machine Learning (SciML)**, **Efficient AI Systems**, and **High-Performance Numerical Methods**
 - 🛠️ Creator of [**Phantom**](https://github.com/alok-108/phantom) — *Dual-layer programming language embedding structured instructions in ordinary Python source*
-- 🌍 Passionate about contributing to scientific open-source ecosystems
+- 🌍 Passionate about contributing to scientific computing and open-source software
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
+### 🏅 GitHub Badges & Achievements Showcase
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="80px" alt="Mars 2020 Contributor" /><br />
+        <b>Mars 2020</b><br />
+        <sub>Space Mission</sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="80px" alt="Arctic Code Vault" /><br />
+        <b>Arctic Vault</b><br />
+        <sub>Code Preservation</sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="80px" alt="Galaxy Brain" /><br />
+        <b>Galaxy Brain</b><br />
+        <sub>Unlocked</sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80px" alt="Pull Shark" /><br />
+        <b>Pull Shark</b><br />
+        <sub>Unlocked</sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80px" alt="Quickdraw" /><br />
+        <b>Quickdraw</b><br />
+        <sub>Unlocked</sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80px" alt="YOLO" /><br />
+        <b>YOLO</b><br />
+        <sub>Unlocked</sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80px" alt="Pair Extraordinaire" /><br />
+        <b>Pair Extraordinaire</b><br />
+        <sub>Unlocked</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 Featured Project: [Phantom](https://github.com/alok-108/phantom)
+
+> **Phantom: Dual-layer programming language — structured instructions embedded in ordinary Python source.**
+
+<p align="left">
+  <a href="https://github.com/alok-108/phantom"><img src="https://img.shields.io/github/stars/alok-108/phantom?style=for-the-badge&logo=github&color=f4c430" alt="Stars" /></a>
+  <a href="https://github.com/alok-108/phantom/fork"><img src="https://img.shields.io/github/forks/alok-108/phantom?style=for-the-badge&logo=github&color=61afef" alt="Forks" /></a>
+  <a href="https://github.com/alok-108/phantom/issues"><img src="https://img.shields.io/github/issues/alok-108/phantom?style=for-the-badge&color=98c379" alt="Issues" /></a>
+  <a href="https://github.com/alok-108/phantom/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alok-108/phantom?style=for-the-badge&color=e06c75" alt="License" /></a>
+</p>
+
+---
+
+### 🏆 Dynamic Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -40,7 +100,7 @@
     <img src="https://holopin.me/alok-108" alt="@alok-108's Holopin board" />
   </a>
   <br />
-  <sub><i>Claim badges from Hacktoberfest, GitHub Universe, AWS, Google Cloud, and Open Source events to display them here!</i></sub>
+  <sub><i>Badges claimed from Hacktoberfest, GitHub Universe, AWS, Google Cloud, and Open Source events auto-sync here!</i></sub>
 </div>
 
 ---
