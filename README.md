@@ -8,7 +8,6 @@
   <a href="https://alokpandey-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-alokpandey.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/alok-108"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://holopin.io/@alok-108"><img src="https://img.shields.io/badge/Holopin-Badges-5F46E8?style=for-the-badge&logo=hive-blockchain&logoColor=white" alt="Holopin" /></a>
-  <a href="https://science.nasa.gov/open-science/transform-to-open-science/"><img src="https://img.shields.io/badge/NASA-Open%20Science-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Open Science" /></a>
 </p>
 
 </div>
@@ -17,52 +16,37 @@
 
 ### 🌟 About Me
 
-- 🎓 at **Indian Institute of Technology Patna (IIT Patna)**
+- 🎓 Student @ **Indian Institute of Technology Patna (IIT Patna)**
 - 🔬 Research Interests: **Scientific Machine Learning (SciML)**, **Efficient AI Systems**, and **High-Performance Numerical Methods**
 - 🛠️ Creator of [**Phantom**](https://github.com/alok-108/phantom) — *Dual-layer programming language embedding structured instructions in ordinary Python source*
 - 🌍 Passionate about contributing to scientific computing and open-source software
 
 ---
 
-### 🏅 GitHub Badges & Achievements Showcase
+### 🏅 GitHub Badges & Achievements
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="80px" alt="Mars 2020 Contributor" /><br />
-        <b>Mars 2020</b><br />
-        <sub>Space Mission</sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="80px" alt="Arctic Code Vault" /><br />
-        <b>Arctic Vault</b><br />
-        <sub>Code Preservation</sub>
-      </td>
-      <td align="center" width="14%">
+      <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="80px" alt="Galaxy Brain" /><br />
         <b>Galaxy Brain</b><br />
-        <sub>Unlocked</sub>
+        <sub>Answered Discussions</sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80px" alt="Pull Shark" /><br />
         <b>Pull Shark</b><br />
-        <sub>Unlocked</sub>
+        <sub>Merged Pull Requests</sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80px" alt="Quickdraw" /><br />
         <b>Quickdraw</b><br />
-        <sub>Unlocked</sub>
+        <sub>Quick Issue/PR Close</sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80px" alt="YOLO" /><br />
         <b>YOLO</b><br />
-        <sub>Unlocked</sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80px" alt="Pair Extraordinaire" /><br />
-        <b>Pair Extraordinaire</b><br />
-        <sub>Unlocked</sub>
+        <sub>Merged without Review</sub>
       </td>
     </tr>
   </table>
@@ -87,7 +71,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alok-108&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="alok-108 GitHub Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=alok-108&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="alok-108 GitHub Trophies" />
   </a>
 </div>
 
@@ -141,8 +125,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-108&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alok's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alok-108&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alok's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=alok-108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
