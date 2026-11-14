@@ -18,7 +18,7 @@
 
 - 🎓 Student @ **Indian Institute of Technology Patna (IIT Patna)**
 - 🔬 Research Interests: **Scientific Machine Learning (SciML)**, **Efficient AI Systems**, and **High-Performance Numerical Methods**
-- 🛠️ Creator of [**SciProof**](https://github.com/alok-108/sciproof) *(machine-verifiable computational experiment evidence, on PyPI)* and [**Phantom**](https://github.com/alok-108/phantom) *(dual-layer Python programming language)*
+- 🛠️ Creator of [**SciProof**](https://github.com/hayagrivai-labs/sciproof) *(machine-verifiable computational experiment evidence, on PyPI)* and [**Phantom**](https://github.com/alok-108/phantom) *(dual-layer Python programming language)*
 - 🌍 Passionate about contributing to scientific computing and open-source software
 
 ---
@@ -56,13 +56,13 @@
 
 ### 🚀 Featured Open-Source Projects (⭐ Star & Contribute!)
 
-#### 1. [SciProof](https://github.com/alok-108/sciproof) — *Reproducible Computational Evidence*
+#### 1. [SciProof](https://github.com/hayagrivai-labs/sciproof) — *Reproducible Computational Evidence*
 > **Record computational experiments and create machine-verifiable evidence: integrity hashes, opt-in re-execution, and numerical tolerances. Zero runtime dependencies.**
 
 <p align="left">
-  <a href="https://github.com/alok-108/sciproof"><img src="https://img.shields.io/github/stars/alok-108/sciproof?style=for-the-badge&logo=github&color=f4c430" alt="Stars" /></a>
-  <a href="https://github.com/alok-108/sciproof/fork"><img src="https://img.shields.io/github/forks/alok-108/sciproof?style=for-the-badge&logo=github&color=61afef" alt="Forks" /></a>
-  <a href="https://github.com/alok-108/sciproof/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img src="https://img.shields.io/github/issues/alok-108/sciproof/good%20first%20issue?style=for-the-badge&label=good%20first%20issues&color=98c379" alt="Good First Issues" /></a>
+  <a href="https://github.com/hayagrivai-labs/sciproof"><img src="https://img.shields.io/github/stars/hayagrivai-labs/sciproof?style=for-the-badge&logo=github&color=f4c430" alt="Stars" /></a>
+  <a href="https://github.com/hayagrivai-labs/sciproof/fork"><img src="https://img.shields.io/github/forks/hayagrivai-labs/sciproof?style=for-the-badge&logo=github&color=61afef" alt="Forks" /></a>
+  <a href="https://github.com/hayagrivai-labs/sciproof/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img src="https://img.shields.io/github/issues/hayagrivai-labs/sciproof/good%20first%20issue?style=for-the-badge&label=good%20first%20issues&color=98c379" alt="Good First Issues" /></a>
   <a href="https://pypi.org/project/sciproof/"><img src="https://img.shields.io/pypi/v/sciproof?style=for-the-badge&color=e06c75" alt="PyPI" /></a>
 </p>
 
